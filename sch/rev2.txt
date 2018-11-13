@@ -1,0 +1,6 @@
+
+== Revision 2.0 Changes ==
+
+Change footprint of 5050 RGB led to match actual part
+Check if all electrolytic filter capacitors are necessary, if not remove some
+
